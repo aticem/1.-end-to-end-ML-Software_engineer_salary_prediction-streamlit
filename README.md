@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This project aims to predict the salaries of software engineers using various factors like experience, education, location, and skills. Built with a machine learning model, it provides insights into the software industry's salary trends and helps professionals estimate their market worth.
+This repository contains an end-to-end machine learning project focusing on predicting the salaries of software engineers. It exemplifies the complete lifecycle of a machine learning application, encompassing data analysis, model training, model deployment, and user interface creation. The project is developed using Visual Studio Code as the integrated development environment, highlighting its versatility in handling data science and machine learning workflows. For the deployment of the machine learning model and the interactive user interface, Streamlit is employed, demonstrating a streamlined approach to bringing data models to a wider audience. This project serves as a comprehensive example of how modern tools and technologies are leveraged in machine learning to transform data into actionable insights and user-friendly applications.
 
-![image](https://github.com/aticem/1.-end-to-end-ML-with-deployment/assets/65057931/7773c39a-8fc0-40d8-9527-c8671808e0b2)
+![image](https://github.com/aticem/1.-end-to-end-ML-with-deployment/assets/65057931/0dace6d0-6ba9-4ed4-a5fd-fc26f5dc4f50)
 
-
+![image](https://github.com/aticem/1.-end-to-end-ML-with-deployment/assets/65057931/b282cb88-aedc-4f3d-9282-028d297e1478)
 
 
 
@@ -26,37 +26,23 @@ This project aims to predict the salaries of software engineers using various fa
 
 
 
-## Features
+## Key Features
+##### Complete Machine Learning Workflow: Includes every step from data preprocessing, exploratory data analysis, model building, and evaluation.
+##### Development Environment: Developed using Visual Studio Code, a versatile and powerful code editor.
+##### Interactive Web Application: Utilizes Streamlit for creating a user-friendly web application, allowing users to interactively make salary predictions and visualize data.
+##### Model Deployment: Demonstrates how to deploy a machine learning model, making it accessible as a web service.
 
-- **Data Analysis Notebook:** In-depth EDA and model training in `SalaryPrediction.ipynb`.
-- **Interactive Web Application:** Flask-based web app for real-time salary predictions.
-- **Comprehensive Dataset:** Utilizes `survey_results_public.csv` for diverse insights.
+####################
 
-
-## Usage
-
-- **Model Training:** Open `SalaryPrediction.ipynb` to view the training process.
-- **Web Application:** Visit `localhost:5000` in your browser after running `app.py`.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](LINK_TO_ISSUES_PAGE). 
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+## Technologies Used
+##### Visual Studio Code: Used as the primary code editor for writing Python scripts and Jupyter notebooks.
+##### Streamlit: An open-source app framework used for turning data scripts into shareable web apps.
+##### Machine Learning Libraries: Utilized libraries like scikit-learn, pandas, and numpy for building and evaluating the machine learning model.
+##### Version Control: Managed with Git, with the repository hosted on GitHub.
 
 Project Link: [https://github.com/aticem/1.-end-to-end-ML-with-deployment.git](https://github.com/aticem/1.-end-to-end-ML-with-deployment.git)
 
 ---
-
-### Screenshots and Visuals
-
-Add screenshots of your application or visualizations from your notebook here.
 
 ---
 
